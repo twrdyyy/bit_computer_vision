@@ -25,7 +25,7 @@ git clone https://github.com/twrdyyy/bit_computer_vision.git
 cd bit_computer_vision
 pip3 install -r requirements.txt
 ```
-If everything configured correctly you run
+If everything configured correctly run
 ```bash
-python3 -c "import numpy; import cv2; import tensorflow as tf; import matplotlib;print('ok')"
+python3 -c "import numpy; import cv2; import tensorflow; import matplotlib; print('ok')"
 ```
