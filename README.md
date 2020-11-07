@@ -27,5 +27,5 @@ pip3 install -r requirements.txt
 ```
 If everything configured correctly run
 ```bash
-python3 -c "import numpy; import cv2; import tensorflow; import matplotlib; print('ok')"
+python3 -c "import numpy; import cv2; import tensorflow; import matplotlib; import torch; print('ok')"
 ```
